@@ -153,6 +153,14 @@ i.fab.fa-linkedin-in {
     font-weight: 400;
     color: red;
 }
+.fab.fa-whatsapp, .far {
+    font-weight: 400;
+    color: #0f0;
+}
+.fa-facebook-f:before, .fa-facebook:before {
+    content: "\f09a";
+    color: #3c84f7;
+}
 
 
 /* navbar styling */
