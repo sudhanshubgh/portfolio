@@ -161,6 +161,10 @@ i.fab.fa-linkedin-in {
     content: "\f09a";
     color: #3c84f7;
 }
+.fa-copyright:before {
+    content: "\f1f9";
+    color: crimson;
+}
 
 
 /* navbar styling */
