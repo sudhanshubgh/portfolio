@@ -133,7 +133,7 @@ body {
 }
 .user-modal-container .switcher a.selected {
   background: #FFF;
-  color: #505260;
+  color: 192734;
 }
 @media only screen and (min-width: 600px) {
   .user-modal-container {
@@ -224,7 +224,7 @@ body {
 .form input[type=submit] {
   padding: 16px 0;
   cursor: pointer;
-  background: #F64747;
+  background: #39d353;
   color: #FFF;
   font-weight: bold;
   border: none;
@@ -414,7 +414,7 @@ body {
 }
 
 .accept-terms {
-	color: #F64747;
+	color: #39d353;
 	text-decoration: none;
 	padding: 0 1px 1px 2px;
 	border-bottom: 1px solid rgba(246, 71, 71, .0);
