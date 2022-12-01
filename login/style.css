@@ -8,7 +8,7 @@ ul, li {
 }
 
 body {
-	background: #3dd83d;
+	background: #39d353;
 }
 
 .main-nav {
@@ -45,12 +45,12 @@ body {
 }
 
 .main-nav li:nth-child(1) a {
-	background: #d83d3d;
+	background: #39d353;
 	border: 2px solid #fff;
 }
 .main-nav li:nth-child(1) a:hover {
 	background: #fff;
-	color: #d83d3d;
+	color: #39d353;
 }
 
 .main-nav li:nth-child(2) a {
@@ -127,7 +127,7 @@ body {
   width: 100%;
   height: 50px;
   line-height: 50px;
-  background: #d2d8d8;
+  background: #39d353;
   color: #809191;
 	text-decoration: none;
 }
@@ -202,7 +202,7 @@ body {
   padding: 12px 20px 12px 50px;
 }
 .form input.has-border {
-  border: 1px solid #d2d8d8;
+  border: 1px solid #39d353;
   -webkit-appearance: none;
   -moz-appearance: none;
   -ms-appearance: none;
@@ -242,7 +242,7 @@ body {
 	background: #d83d3d;
 }
 .no-touch .form input[type=submit]:hover, .no-touch .form input[type=submit]:focus {
-  background: #d83d3d;
+  background: #39d353;
   outline: none;
 }
 .form .hide-password {
