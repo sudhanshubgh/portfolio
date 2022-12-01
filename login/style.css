@@ -128,7 +128,7 @@ body {
   height: 50px;
   line-height: 50px;
   background: #39d353;
-  color: #809191;
+  color: #0001;
 	text-decoration: none;
 }
 .user-modal-container .switcher a.selected {
@@ -239,7 +239,7 @@ body {
   	-o-transition: all 0.30s ease-in-out;
 }
 .form input[type=submit]:hover {
-	background: #d83d3d;
+	background: #fff;
 }
 .no-touch .form input[type=submit]:hover, .no-touch .form input[type=submit]:focus {
   background: #39d353;
