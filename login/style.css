@@ -54,12 +54,12 @@ body {
 }
 
 .main-nav li:nth-child(2) a {
-  background: #9e2c2c;
-	border: 2px solid #9e2c2c;
+  background: #39d353;
+	border: 2px solid #fff;
 }
 .main-nav li:nth-child(2) a:hover {
-	background: #b13131;
-	border: 2px solid #b13131;
+	background: #fff;
+	color: #39d353;
 }
 
 .user-modal {
